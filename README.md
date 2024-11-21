@@ -23,7 +23,7 @@ CineVerse is a movie-centric application where users can discover movies, add an
 ## 🛠️ Technologies Used
 
 - **Frontend**: React, Tailwind CSS
-- **Backend**: Node.js, Express (upcoming)
+- **Backend**:Java, Springboot 
 - **API Integration**: OMDb API for fetching movie data
 - **State Management**: React Hooks, Context API/Redux (upcoming)
 
